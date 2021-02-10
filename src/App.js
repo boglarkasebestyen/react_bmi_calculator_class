@@ -167,6 +167,7 @@
             resultString = "You're quite the chonker, there!"
             break
           }
+           default:{}
         }
 
           //gettind random images & avoiding duplicates
