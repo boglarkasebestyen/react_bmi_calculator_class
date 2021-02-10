@@ -13,7 +13,7 @@ A **functional component-based version** of this project can be viewed [here](ht
 
 
 ## Live demo 
-View a live demo of this project here.
+View a live demo of this project [here](https://sb-bmi-class.netlify.app).
 
 ## Additional info
 
