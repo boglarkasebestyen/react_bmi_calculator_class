@@ -14,7 +14,7 @@ Body Mass Index (BMI) is a person’s weight in kilograms divided by the square 
 
 ###Guideline 
 * The user can add the height & weight by either using the slider or simply adding the numbers manually.
-* **If the user doesn't fill out both, only one or any of the fields**, the app will not perform the calculation and it will prompt the user to fill out the fields.
+* **If the user doesn't fill only one or any of the fields**, the app will not perform the calculation and it will prompt the user to fill out the fields.
 * **The possibility to enter a value above the given maximum is disabled**. 
 * **The user can enter a value below the given minimum value**, however it will not calculate the BMI and it will prompt the user, through an error message, to change the value.
 * **When the fields are filled out correctly**, the app calculates the user's BMI accompanied by an image of a (underweight, normal, overweight, or obese) cat and a message that lets the user know if their BMI is optimal or not.  
