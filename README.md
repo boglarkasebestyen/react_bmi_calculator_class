@@ -4,7 +4,7 @@
 
 Body Mass Index (BMI) is a person’s weight in kilograms divided by the square of height in meters. A high BMI can be an indicator of high body fatness. BMI can be used to screen for weight categories that may lead to health problems but it is not diagnostic of the body fatness or health of an individual.
 
-![](https://media.giphy.com/media/XkzgDygUyGd4SCruXf/giphy.gif)
+![](https://media.giphy.com/media/GXBoSgBHRlShbc1yR4/giphy.gif)
 
 
 ## How it works
@@ -12,7 +12,7 @@ Body Mass Index (BMI) is a person’s weight in kilograms divided by the square 
 * The entered weight should be limited to values between 10kg - 300kg.
 * There is no option to change the unit of measure.
 
-###Guideline 
+### Guideline 
 * The user can add the height & weight by either using the slider or simply adding the numbers manually.
 * **If the user doesn't fill only one or any of the fields**, the app will not perform the calculation and it will prompt the user to fill out the fields.
 * **The possibility to enter a value above the given maximum is disabled**. 
